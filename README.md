@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Jr&font=Fira%20Code&center=true&width=500&height=45&color=0072FF&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Jr&font=Fira%20Code&center=true&width=500&height=45&color=0BA115&vCenter=true&size=22" alt="Typing SVG" />
 </div>
 
 ---
@@ -94,7 +94,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00C6FF&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0BA115,100:00C6FF&height=120&section=footer" width="100%" />
   <br>
   <img src="https://komarev.com/ghpvc/?username=WaldirVasquez&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="contador de visitas"/>
 </div>
