@@ -4,14 +4,14 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Jr;Estudiante+de+Ingeniería+en+Sistemas+Informáticos;Apasionado+por+la+tecnología+y+el+desarrollo&font=Fira%20Code&center=true&width=500&height=45&color=0072FF&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Jr&font=Fira%20Code&center=true&width=500&height=45&color=0072FF&vCenter=true&size=22" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 👋 ¡Hola! Soy Waldir Vásquez
 
-> 💻 Desarrollador **Jr**
+> 💻  Desarrollador **Jr** y estudiante de **Ingeniería de Sistemas Informáticos**, apasionado por la tecnología, el desarrollo web y la creación de soluciones prácticas.  
 
 ---
 
@@ -22,7 +22,7 @@
 - 💼 Desarrollo de sistemas en **PHP**, **C#** y **C++**  
 - 📱 Creación de aplicaciones móviles con **Flutter** y **Java**  
 - ☁️ Actualmente aprendiendo **Firebase**, **Docker**, **Flutter**
-- Actualemte estudiante de Ingenieria de Sistemas Informaticos
+
 
 ---
 
