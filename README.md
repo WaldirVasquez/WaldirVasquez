@@ -33,14 +33,14 @@
 ---
 
 ### 🌟 Proyectos Destacados
-- 🧾 [**Proyecto Biblioteca Virtual CUBO**](#) — Biblioteca web para la institucion CUBO donde se pueden leer, escuchar audios libros etc, y registrase totalmente gratis al sitio.  
-- 🚗 [**Sistema de asistencias a talleres, ponencias**](#) — Plataforma PHP. laravel para asistencias a talleres, ponencias en proceso.
+- [**Proyecto Biblioteca Virtual CUBO**](#) — Biblioteca web para la institucion CUBO donde se pueden leer, escuchar audios libros etc, y registrase totalmente gratis al sitio.  
+- [**Sistema de asistencias a talleres, ponencias**](#) — Plataforma PHP. laravel para asistencias a talleres, ponencias en proceso.
 
 ---
 
 ### 🌐 Conéctate conmigo
 <p align="center">
   <a href="https://www.instagram.com/waldir.vr?igsh=dDB3a3pqOTl3NzVx"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-  <a href="https://www.facebook.com/share/1Sktope52N/"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+  <a href="https://www.facebook.com/share/1Sktope52N/"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
   <a href="mailto:waldirvasquezrosa16@gmail.com><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
