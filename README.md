@@ -1,6 +1,6 @@
 <!-- Encabezado con degradado animado -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=300&section=header&text=Waldir%20Vásquez&fontSize=90&fontColor=fff&animation=fadeIn" width="100%" alt="Encabezado"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0BA115,100:0072FF&height=300&section=header&text=Waldir%20Vásquez&fontSize=90&fontColor=fff&animation=fadeIn" width="100%" alt="Encabezado"/>
 </div>
 
 <div align="center">
@@ -11,8 +11,7 @@
 
 ### 👋 ¡Hola! Soy Waldir Vásquez
 
-> 💻 Desarrollador **Jr** y estudiante de **Ingeniería en Sistemas Informáticos**, apasionado por la tecnología, el desarrollo web y la creación de soluciones prácticas.  
-> 🚀 Siempre buscando aprender, mejorar mis habilidades y trabajar en proyectos colaborativos.
+> 💻 Desarrollador **Jr**
 
 ---
 
@@ -22,7 +21,8 @@
 
 - 💼 Desarrollo de sistemas en **PHP**, **C#** y **C++**  
 - 📱 Creación de aplicaciones móviles con **Flutter** y **Java**  
-- ☁️ Actualmente aprendiendo **Firebase**, **Docker**, **Google Cloud** y **Laravel**
+- ☁️ Actualmente aprendiendo **Firebase**, **Docker**, **Flutter**
+- Actualemte estudiante de Ingenieria de Sistemas Informaticos
 
 ---
 
@@ -38,7 +38,7 @@
 ### 🎮 Pasatiempos
 <p align="center">
   🎧 Producción musical en <strong>FL Studio</strong><br>
-  🕹️ Videojuegos y diseño de niveles en <strong>MonoGame</strong>
+  🕹️ Videojuegos
 </p>
 
 ---
