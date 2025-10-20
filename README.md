@@ -84,7 +84,7 @@
       <td align="left">
         <strong>Lil Supa - Luz</strong><br>
         Álbum: SERIO<br>
-        <a href="https://open.spotify.com/track/5ehxGZF5HcKDoR3N0D3HXt" target="_blank">
+        <a href="https://open.spotify.com/intl-es/track/5aF2hoUHaU9GainPXIZDMV?si=966241002a4b44f8" target="_blank">
           <img src="[https://img.shields.io](https://images.genius.com/8fc539dd0a14fb8be02a1a659a72ede9.1000x1000x1.png)/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" />
         </a>
       </td>
