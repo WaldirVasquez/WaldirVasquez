@@ -16,11 +16,11 @@
 
 - 💼 Desarrollo de sistemas en **PHP**, **C#** y **C++**.  
 - 📱 Creación de aplicaciones móviles con **Flutter** y **Java**.  
-- 🔭 Actualmente aprendiendo **Firebase**, **Docker**, **Google Cloud** y **DevOps**.
+- 🔭 Actualmente aprendiendo **Firebase**, **Docker**, **Flutter** y **DevOps**.
 
 ---
 
-### 🧰 Stack Tecnológico (con estilo 3D)
+### 🧰 Stack Tecnológico
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="55" height="55"/>
@@ -65,10 +65,8 @@
 
 ### 🎶 Canción Favorita
 <p align="center">
-  <a href="https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3" target="_blank">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b8d3d7c17d707c96b92c3135" width="250" alt="Shape of You - Ed Sheeran"/>
+  <a href="[https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3](https://open.spotify.com/intl-es/track/5aF2hoUHaU9GainPXIZDMV?si=5ac73878931049f7)" target="_blank">
   </a>
   <br>
-  🎧 *Shape of You* – Ed Sheeran
 </p>
 
