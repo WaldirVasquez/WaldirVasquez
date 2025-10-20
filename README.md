@@ -37,7 +37,7 @@
 
 [### 🎮 Pasatiempos
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/5/59/FL_Studio_logo_2023.svg(https://www.pngfind.com/pngs/m/4-49885_fl-studio-logo-png-transparent-png.png)" width="50" title="FL Studio" alt="FL Studio"/> &nbsp;&nbsp;
+  <img src="https://www.pngfind.com/pngs/m/4-49885_fl-studio-logo-png-transparent-png.png([https://www.pngfind.com/pngs/m/4-49885_fl-studio-logo-png-transparent-png.png](https://www.pngfind.com/pngs/m/4-49885_fl-studio-logo-png-transparent-png.png))" width="50" title="FL Studio" alt="FL Studio"/> &nbsp;&nbsp;
   🎵 Producción musical con <strong>FL Studio</strong> &nbsp;&nbsp; | &nbsp;&nbsp; 🕹️ Amante de los videojuegos
 </p>
 
