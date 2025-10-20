@@ -43,10 +43,10 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### ⚡ Estadísticas de GitHub
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WaldirVasquez&show_icons=true&theme=tokyonight&bg_color=45,00C6FF,0072FF&border_color=fff&title_color=fff&text_color=fff" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=WaldirVasquez&theme=tokyonight&background=45,00C6FF,0072FF&border=fff&ring=fff&fire=fff&currStreakNum=fff&sideNums=fff&currStreakLabel=fff&sideLabels=fff&dates=fff" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WaldirVasquez&show_icons=true&theme=transparent&bg_color=0d1117&title_color=bb86fc&icon_color=bb86fc&text_color=cfcfcf&border_color=bb86fc" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=WaldirVasquez&theme=transparent&background=0d1117&border=bb86fc&ring=bb86fc&fire=bb86fc&currStreakNum=ffffff&sideNums=bb86fc&currStreakLabel=ffffff&sideLabels=bb86fc&dates=cfcfcf" />
 </div>
 
 ---
@@ -73,24 +73,28 @@
 ---
 
 ### 🎵 Canción Favorita
+
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <a href="https://open.spotify.com/track/5ehxGZF5HcKDoR3N0D3HXt" target="_blank">
-          <img src="https://i.scdn.co/image/ab67616d0000b27337a0f3e4b1d786b40328b8b3" width="120" alt="Luz - Lil Supa portada"/>
+        <!-- Portada de la canción -->
+        <a href="https://open.spotify.com/intl-es/track/5aF2hoUHaU9GainPXIZDMV?si=966241002a4b44f8" target="_blank">
+          <img src="https://images.genius.com/8fc539dd0a14fb8be02a1a659a72ede9.1000x1000x1.png" width="120" alt="Luz - Lil Supa portada"/>
         </a>
       </td>
       <td align="left">
         <strong>Lil Supa - Luz</strong><br>
         Álbum: SERIO<br>
+        <!-- Botón de Spotify -->
         <a href="https://open.spotify.com/intl-es/track/5aF2hoUHaU9GainPXIZDMV?si=966241002a4b44f8" target="_blank">
-          <img src="[https://img.shields.io](https://images.genius.com/8fc539dd0a14fb8be02a1a659a72ede9.1000x1000x1.png)/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" />
+          <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify"/>
         </a>
       </td>
     </tr>
   </table>
 </div>
+
 
 ---
 
