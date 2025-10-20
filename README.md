@@ -37,8 +37,8 @@
 
 ### 🎮 Pasatiempos
 <p align="center">
-  🎧 Producción musical en <strong>FL Studio</strong><br>
-  🕹️ Videojuegos
+  <img src="https://upload.wikimedia.org/wikipedia/en/5/59/FL_Studio_logo_2023.svg" width="50" title="FL Studio" alt="FL Studio"/> &nbsp;&nbsp;
+  🎵 Producción musical con <strong>FL Studio</strong> &nbsp;&nbsp; | &nbsp;&nbsp; 🕹️ Amante de los videojuegos
 </p>
 
 ---
@@ -85,7 +85,7 @@
         <strong>Lil Supa - Luz</strong><br>
         Álbum: SERIO<br>
         <a href="https://open.spotify.com/track/5ehxGZF5HcKDoR3N0D3HXt" target="_blank">
-          <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" />
+          <img src="[https://img.shields.io](https://images.genius.com/8fc539dd0a14fb8be02a1a659a72ede9.1000x1000x1.png)/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" />
         </a>
       </td>
     </tr>
