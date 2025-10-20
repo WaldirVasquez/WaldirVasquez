@@ -35,12 +35,6 @@
 
 ---
 
-### 🎮 Pasatiempos
-<p align="center">
-  <img src="https://www.pngfind.com/pngs/m/4-49885_fl-studio-logo-png-transparent-png.png" width="55" title="FL Studio" alt="FL Studio"/> &nbsp;&nbsp;
-  🎵 Producción musical con <strong>FL Studio</strong> &nbsp;&nbsp; | &nbsp;&nbsp; 🕹️ Amante de los videojuegos
-</p>
-
 
 ---
 
