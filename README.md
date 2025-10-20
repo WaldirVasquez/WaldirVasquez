@@ -1,125 +1,101 @@
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><div align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e152d6ccd06bda3b53433cad6f07af4654a7ce411077eafb85f7a7e2f7325740/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3030433646462c3130303a303037324646266865696768743d3330302673656374696f6e3d68656164657226746578743d4765726172646f2532304cc3b370657a26666f6e7453697a653d393026666f6e74436f6c6f723d66666626616e696d6174696f6e3d66616465496e"><img width="100%" height="300" src="https://camo.githubusercontent.com/e152d6ccd06bda3b53433cad6f07af4654a7ce411077eafb85f7a7e2f7325740/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3030433646462c3130303a303037324646266865696768743d3330302673656374696f6e3d68656164657226746578743d4765726172646f2532304cc3b370657a26666f6e7453697a653d393026666f6e74436f6c6f723d66666626616e696d6174696f6e3d66616465496e" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00C6FF,100:0072FF&amp;height=300&amp;section=header&amp;text=Gerardo%20López&amp;fontSize=90&amp;fontColor=fff&amp;animation=fadeIn" style="max-width: 100%; height: auto; max-height: 300px;"></a>
-<p dir="auto"></p>
-<div align="center" dir="auto">
-  <div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto">¡Hola! 👋 Soy Gerardo López <animated-image data-catalyst="" style="width: 25px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" target="_blank">
-          
-        <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="25" height="24"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play 68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play 68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="Open 68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966 in new window" class="AnimatedImagePlayer-button" href="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image></h1><a id="user-content-hola--soy-gerardo-lópez-" class="anchor" aria-label="Permalink: ¡Hola! 👋 Soy Gerardo López " href="#hola--soy-gerardo-lópez-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<!-- Encabezado con degradado animado -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=300&section=header&text=Waldir%20Vásquez&fontSize=90&fontColor=fff&animation=fadeIn" width="100%" alt="Encabezado"/>
 </div>
-<div align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/328f4fad0745b5741b824b8a9810a33511ffbd02feb82dc329a4e718216a3a1a/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d4465736172726f6c6c61646f722b46756c6c2b537461636b3b41706173696f6e61646f2b706f722b6c612b7465636e6f6c6f67c3ad613b5369656d7072652b617072656e6469656e646f2b616c676f2b6e7565766f26666f6e743d46697261253230436f64652663656e7465723d747275652677696474683d343430266865696768743d343526636f6c6f723d303037324646267643656e7465723d747275652673697a653d3232"><img src="https://camo.githubusercontent.com/328f4fad0745b5741b824b8a9810a33511ffbd02feb82dc329a4e718216a3a1a/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d4465736172726f6c6c61646f722b46756c6c2b537461636b3b41706173696f6e61646f2b706f722b6c612b7465636e6f6c6f67c3ad613b5369656d7072652b617072656e6469656e646f2b616c676f2b6e7565766f26666f6e743d46697261253230436f64652663656e7465723d747275652677696474683d343430266865696768743d343526636f6c6f723d303037324646267643656e7465723d747275652673697a653d3232" data-canonical-src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Full+Stack;Apasionado+por+la+tecnología;Siempre+aprendiendo+algo+nuevo&amp;font=Fira%20Code&amp;center=true&amp;width=440&amp;height=45&amp;color=0072FF&amp;vCenter=true&amp;size=22" style="max-width: 100%;"></a>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Jr;Estudiante+de+Ingeniería+en+Sistemas+Informáticos;Apasionado+por+la+tecnología+y+el+desarrollo&font=Fira%20Code&center=true&width=500&height=45&color=0072FF&vCenter=true&size=22" alt="Typing SVG" />
 </div>
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto"><animated-image data-catalyst="" style="width: 25px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ec5c8741e4ed88b1a5824e32558e15983dbaf6b46ca017418a32e39b4036ba3b/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/ec5c8741e4ed88b1a5824e32558e15983dbaf6b46ca017418a32e39b4036ba3b/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" data-canonical-src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/ec5c8741e4ed88b1a5824e32558e15983dbaf6b46ca017418a32e39b4036ba3b/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" target="_blank">
-          
-        <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/ec5c8741e4ed88b1a5824e32558e15983dbaf6b46ca017418a32e39b4036ba3b/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="25" height="25"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play 68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play 68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="Open 68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966 in new window" class="AnimatedImagePlayer-button" href="https://camo.githubusercontent.com/ec5c8741e4ed88b1a5824e32558e15983dbaf6b46ca017418a32e39b4036ba3b/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image> Sobre mí</h2><a id="user-content--sobre-mí" class="anchor" aria-label="Permalink:  Sobre mí" href="#-sobre-mí"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p align="center" dir="auto">
-  <em>"Siempre abierto a colaborar en proyectos interesantes y a aprender junto a otros desarrolladores".</em>
-</p>
-<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">💼 Experiencia Destacada</h3><a id="user-content--experiencia-destacada" class="anchor" aria-label="Permalink: 💼 Experiencia Destacada" href="#-experiencia-destacada"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p dir="auto">🖥️ Desarrollo de sistemas de computadora en C++ y Java</p>
-<p dir="auto">📱 Creación de aplicaciones móviles con Android Studio</p>
-<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">🌱 Actualmente Aprendiendo</h3><a id="user-content--actualmente-aprendiendo" class="anchor" aria-label="Permalink: 🌱 Actualmente Aprendiendo" href="#-actualmente-aprendiendo"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/reactjs.svg"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/reactjs.svg" width="20" height="20" style="max-width: 100%; height: auto; max-height: 20px;"></a> React.js - Expandiendo mis habilidades en desarrollo frontend
-</p>
-<p align="center" dir="auto">
-  Me encuentro enfocado en aprender React para crear interfaces de usuario interactivas y dinámicas. Busco oportunidades para aplicar estos conocimientos en proyectos reales y colaborativos.
-</p>
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🛠️ Stack Tecnológico</h2><a id="user-content-️-stack-tecnológico" class="anchor" aria-label="Permalink: 🛠️ Stack Tecnológico" href="#️-stack-tecnológico"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p align="center" dir="auto">
-  <a href="https://skillicons.dev" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/517cfe68a6ff71b5e5cda6d59d80e9c4a08a7da29b77564660754b8f6509f0f9/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6769742c632c6370702c6373732c6e706d2c7375626c696d652c646973636f72642c706f7374677265732c6669676d612c66697265626173652c6769746875622c68746d6c2c7068702c6a6176612c65636c697073652c76697375616c73747564696f2c6a732c6c696e75782c6d7973716c2c6e6578746a732c6e6f64656a732c706f73746d616e2c616e64726f696473747564696f2c70792c7673636f6465267065726c696e653d38" data-canonical-src="https://skillicons.dev/icons?i=git,c,cpp,css,npm,sublime,discord,postgres,figma,firebase,github,html,php,java,eclipse,visualstudio,js,linux,mysql,nextjs,nodejs,postman,androidstudio,py,vscode&amp;perline=8" style="max-width: 100%;">
+
+---
+
+### 👋 ¡Hola! Soy Waldir Vásquez
+
+> 💻 Desarrollador **Jr** y estudiante de **Ingeniería en Sistemas Informáticos**, apasionado por la tecnología, el desarrollo web y la creación de soluciones prácticas.  
+> 🚀 Siempre buscando aprender, mejorar mis habilidades y trabajar en proyectos colaborativos.
+
+---
+
+### 🧠 Sobre mí
+
+> “Me gusta crear y colaborar en proyectos, aprender nuevas tecnologías y trabajar en equipo.”
+
+- 💼 Desarrollo de sistemas en **PHP**, **C#** y **C++**  
+- 📱 Creación de aplicaciones móviles con **Flutter** y **Java**  
+- ☁️ Actualmente aprendiendo **Firebase**, **Docker**, **Google Cloud** y **Laravel**
+
+---
+
+### 🛠️ Stack Tecnológico
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,cs,cpp,java,flutter,html,css,js,mysql,postgres,git,github,laravel,firebase,docker,gcp,vscode,linux&perline=9" />
   </a>
 </p>
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">📊 Estadísticas de GitHub</h2><a id="user-content--estadísticas-de-github" class="anchor" aria-label="Permalink: 📊 Estadísticas de GitHub" href="#-estadísticas-de-github"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<div align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/90cf29b7002d802b1b77f4cfecb1db438284e3b974bfc6442568cff9620a32ee/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4d656472616e6f4765726172646f2673686f775f69636f6e733d74727565267468656d653d746f6b796f6e6967687426696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d747275652662675f636f6c6f723d34352c3030433646462c30303732464626626f726465725f636f6c6f723d666666267469746c655f636f6c6f723d66666626746578745f636f6c6f723d666666"><img height="120em" src="https://camo.githubusercontent.com/90cf29b7002d802b1b77f4cfecb1db438284e3b974bfc6442568cff9620a32ee/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4d656472616e6f4765726172646f2673686f775f69636f6e733d74727565267468656d653d746f6b796f6e6967687426696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d747275652662675f636f6c6f723d34352c3030433646462c30303732464626626f726465725f636f6c6f723d666666267469746c655f636f6c6f723d66666626746578745f636f6c6f723d666666" data-canonical-src="https://github-readme-stats.vercel.app/api?username=MedranoGerardo&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=45,00C6FF,0072FF&amp;border_color=fff&amp;title_color=fff&amp;text_color=fff" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/74763c5857ab539381f59bb96e12102d33ffa2ec18b63fed3eb4d9a433a2b419/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4d656472616e6f4765726172646f267468656d653d746f6b796f6e69676874266261636b67726f756e643d34352c3030433646462c30303732464626626f726465723d6666662672696e673d66666626666972653d666666266375727253747265616b4e756d3d66666626736964654e756d733d666666266375727253747265616b4c6162656c3d66666626736964654c6162656c733d6666662664617465733d666666"><img height="120em" src="https://camo.githubusercontent.com/74763c5857ab539381f59bb96e12102d33ffa2ec18b63fed3eb4d9a433a2b419/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4d656472616e6f4765726172646f267468656d653d746f6b796f6e69676874266261636b67726f756e643d34352c3030433646462c30303732464626626f726465723d6666662672696e673d66666626666972653d666666266375727253747265616b4e756d3d66666626736964654e756d733d666666266375727253747265616b4c6162656c3d66666626736964654c6162656c733d6666662664617465733d666666" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=MedranoGerardo&amp;theme=tokyonight&amp;background=45,00C6FF,0072FF&amp;border=fff&amp;ring=fff&amp;fire=fff&amp;currStreakNum=fff&amp;sideNums=fff&amp;currStreakLabel=fff&amp;sideLabels=fff&amp;dates=fff" style="max-width: 100%;"></a>
-</div>
-<p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3a80a85b471c5cdf92935fcb91eab5e0176db35d8b9d1f8b32ec8e07c6426a9d/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d4d656472616e6f4765726172646f267468656d653d72656163742d6461726b26686964655f626f726465723d7472756526617265613d747275652662675f636f6c6f723d34352c3030433646462c303037324646"><img width="98%" src="https://camo.githubusercontent.com/3a80a85b471c5cdf92935fcb91eab5e0176db35d8b9d1f8b32ec8e07c6426a9d/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d4d656472616e6f4765726172646f267468656d653d72656163742d6461726b26686964655f626f726465723d7472756526617265613d747275652662675f636f6c6f723d34352c3030433646462c303037324646" alt="Gráfico de Contribución" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=MedranoGerardo&amp;theme=react-dark&amp;hide_border=true&amp;area=true&amp;bg_color=45,00C6FF,0072FF" style="max-width: 100%;"></a>
+
+---
+
+### 🎮 Pasatiempos
+<p align="center">
+  🎧 Producción musical en <strong>FL Studio</strong><br>
+  🕹️ Videojuegos y diseño de niveles en <strong>MonoGame</strong>
 </p>
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🌟 Proyectos Destacados</h2><a id="user-content--proyectos-destacados" class="anchor" aria-label="Permalink: 🌟 Proyectos Destacados" href="#-proyectos-destacados"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<div align="center" dir="auto">
-  <a href="https://github.com/MedranoGerardo/Proyecto-An-lisis-Financiero">
-    <img align="center" src="https://camo.githubusercontent.com/c6320040f59822d8e682aeb158d295095894c4748012c7f20682e27f6d95dca0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d4d656472616e6f4765726172646f267265706f3d50726f796563746f2d416e2d6c697369732d46696e616e636965726f267468656d653d746f6b796f6e696768742662675f636f6c6f723d34352c3030433646462c30303732464626626f726465725f636f6c6f723d666666267469746c655f636f6c6f723d66666626746578745f636f6c6f723d666666" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=MedranoGerardo&amp;repo=Proyecto-An-lisis-Financiero&amp;theme=tokyonight&amp;bg_color=45,00C6FF,0072FF&amp;border_color=fff&amp;title_color=fff&amp;text_color=fff" style="max-width: 100%;">
+
+---
+
+### 📊 Estadísticas de GitHub
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WaldirVasquez&show_icons=true&theme=tokyonight&bg_color=45,00C6FF,0072FF&border_color=fff&title_color=fff&text_color=fff" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=WaldirVasquez&theme=tokyonight&background=45,00C6FF,0072FF&border=fff&ring=fff&fire=fff&currStreakNum=fff&sideNums=fff&currStreakLabel=fff&sideLabels=fff&dates=fff" />
+</div>
+
+---
+
+### 🌟 Proyectos Destacados
+<div align="center">
+  <a href="https://github.com/WaldirVasquez/Biblioteca-Virtual-CUBO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WaldirVasquez&repo=Biblioteca-Virtual-CUBO&theme=tokyonight&bg_color=45,00C6FF,0072FF&border_color=fff&title_color=fff&text_color=fff" />
   </a>
-  <a href="https://github.com/MedranoGerardo/MotoReport">
-    <img align="center" src="https://camo.githubusercontent.com/25b3f55396084c05e226ccfb7f1a17d5b6959e1fa3ef1731dfe91d63414bd820/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d4d656472616e6f4765726172646f267265706f3d4d6f746f7265706f7274267468656d653d746f6b796f6e696768742662675f636f6c6f723d34352c3030433646462c30303732464626626f726465725f636f6c6f723d666666267469746c655f636f6c6f723d66666626746578745f636f6c6f723d666666" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=MedranoGerardo&amp;repo=Motoreport&amp;theme=tokyonight&amp;bg_color=45,00C6FF,0072FF&amp;border_color=fff&amp;title_color=fff&amp;text_color=fff" style="max-width: 100%;">
+  <a href="https://github.com/WaldirVasquez/Sistema-Asistencias-Talleres">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WaldirVasquez&repo=Sistema-Asistencias-Talleres&theme=tokyonight&bg_color=45,00C6FF,0072FF&border_color=fff&title_color=fff&text_color=fff" />
   </a>
 </div>
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🤝 Conéctate conmigo</h2><a id="user-content--conéctate-conmigo" class="anchor" aria-label="Permalink: 🤝 Conéctate conmigo" href="#-conéctate-conmigo"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p align="center" dir="auto">
-  <a href="https://instagram.com/lopez21g" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" style="max-width: 100%; height: auto; max-height: 40px;">
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/MedranoGerardo">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="40" width="40" style="max-width: 100%; height: auto; max-height: 40px;">
-  </a>
+
+---
+
+### 🤝 Conéctate conmigo
+<p align="center">
+  <a href="https://www.instagram.com/waldir.vr?igsh=dDB3a3pqOTl3NzVx"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" /></a>
+  <a href="https://www.facebook.com/share/1Sktope52N/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="40" /></a>
+  <a href="mailto:waldirvasquezrosa16@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="40" width="40" /></a>
 </p>
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🎵 Canción Favorita</h2><a id="user-content--canción-favorita" class="anchor" aria-label="Permalink: 🎵 Canción Favorita" href="#-canción-favorita"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<div align="center" dir="auto">
-  <markdown-accessiblity-table data-catalyst=""><table>
-    <tbody><tr>
+
+---
+
+### 🎵 Canción Favorita
+<div align="center">
+  <table>
+    <tr>
       <td align="center">
-        <a href="https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW" rel="nofollow">
-          <img src="https://camo.githubusercontent.com/93fabe7b65d3d6bd439707034d455bc9ec86e3f45c85a54ad870ee52a15c0a16/68747470733a2f2f692e7363646e2e636f2f696d6167652f61623637363136643030303062323733646530336266633239393166643562636664653635626133" width="100" alt="Blurryface Album Cover" data-canonical-src="https://i.scdn.co/image/ab67616d0000b273de03bfc2991fd5bcfde65ba3" style="max-width: 100%;">
+        <a href="https://open.spotify.com/track/5ehxGZF5HcKDoR3N0D3HXt" target="_blank">
+          <img src="https://i.scdn.co/image/ab67616d0000b27337a0f3e4b1d786b40328b8b3" width="120" alt="Luz - Lil Supa portada"/>
         </a>
       </td>
       <td align="left">
-        <strong>Twenty One Pilots - Ride</strong><br>
-        Album: Blurryface<br>
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/38596a08f235b018ea4fbbb56f5738eb91d5b52469254d7a0e91147b04e4e591/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53706f746966792d3144423935343f7374796c653d666c61742d737175617265266c6f676f3d73706f74696679266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/38596a08f235b018ea4fbbb56f5738eb91d5b52469254d7a0e91147b04e4e591/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53706f746966792d3144423935343f7374796c653d666c61742d737175617265266c6f676f3d73706f74696679266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&amp;logo=spotify&amp;logoColor=white" style="max-width: 100%;"></a>
+        <strong>Lil Supa - Luz</strong><br>
+        Álbum: SERIO<br>
+        <a href="https://open.spotify.com/track/5ehxGZF5HcKDoR3N0D3HXt" target="_blank">
+          <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" />
+        </a>
       </td>
     </tr>
-  </tbody></table></markdown-accessiblity-table>
+  </table>
 </div>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d55bcfe199fac08430e7c75bc23796f3aaa6deed3ddc5cd61c0d80bb0d3f5a6a/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3030373246462c3130303a303043364646266865696768743d3132302673656374696f6e3d666f6f746572"><img width="100%" src="https://camo.githubusercontent.com/d55bcfe199fac08430e7c75bc23796f3aaa6deed3ddc5cd61c0d80bb0d3f5a6a/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3030373246462c3130303a303043364646266865696768743d3132302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0072FF,100:00C6FF&amp;height=120&amp;section=footer" style="max-width: 100%;"></a>
-<p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/28223b67b192192d896a169df392a445e05712de0d9f6185253df76517d47f58/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4d656472616e6f4765726172646f266c6162656c3d56697369746173253230616c25323070657266696c26636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/28223b67b192192d896a169df392a445e05712de0d9f6185253df76517d47f58/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4d656472616e6f4765726172646f266c6162656c3d56697369746173253230616c25323070657266696c26636f6c6f723d306537356236267374796c653d666c6174" alt="Contador de visitas" data-canonical-src="https://komarev.com/ghpvc/?username=MedranoGerardo&amp;label=Visitas%20al%20perfil&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a>
-</p>
-</div></article>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00C6FF&height=120&section=footer" width="100%" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=WaldirVasquez&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="contador de visitas"/>
+</div>
