@@ -3,15 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0BA115,100:0072FF&height=300&section=header&text=Waldir%20Vásquez&fontSize=90&fontColor=fff&animation=fadeIn" width="100%" alt="Encabezado"/>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?linesDevjr&font=Fira%20Code&center=true&width=500&height=45&color=0BA115&vCenter=true&size=22" alt="Typing SVG" />
-</div>
 
 ---
 
 ### 👋 ¡Hola! Soy Waldir Vásquez
 
-> 💻  Desarrollador **Jr** y estudiante de **Ingeniería de Sistemas Informáticos**, apasionado por la tecnología, el desarrollo web y la creación de soluciones prácticas.  
+> 💻  Estudiante de **Ingeniería de Sistemas Informáticos**, apasionado por la tecnología, el desarrollo web y la creación de soluciones prácticas.  
 
 ---
 
